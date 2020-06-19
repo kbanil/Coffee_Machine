@@ -4,3 +4,5 @@
 /Coffee Machine/task/out/
 /Coffee Machine/task/out/production/classes/
 /Coffee Machine/task/out/test/classes/
+/.idea/
+*.class
